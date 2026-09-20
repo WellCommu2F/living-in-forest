@@ -1,0 +1,10 @@
+# 工作文件与查证台账（不随站点发布）
+_workfiles/
+
+# 参考笔记（可选，如需保留请删掉下一行）
+REFERENCE-NOTES.md
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
